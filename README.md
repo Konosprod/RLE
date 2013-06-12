@@ -28,6 +28,7 @@ Will be represented as:
 If the number of occurrence is less than 2, then, we don't make any changement. Indeed, it will make the string bigger than the original:
 
 YYAABBCC
+
 2@Y2@A2@B2@C
 
 The compression is usefull only when there are patterns repeted several times.
