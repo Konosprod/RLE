@@ -11,6 +11,9 @@ Give a text or a file to the program, and it will compress it.
 
 Give a text or a file which has been compressed, and it will decomrpess it.
 
+
+## Representation
+
 I chose the following representation:
 -[2 < number of occurrence < 9]@[caracter]
 
