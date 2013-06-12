@@ -15,7 +15,7 @@ Give a text or a file which has been compressed, and it will decomrpess it.
 ## Representation
 
 I chose the following representation:
--[2 < number of occurrence < 9]@[caracter]
+- [2 < number of occurrence < 9]@[caracter]
 
 The number of occurrence can only be less than 9, otherwise, the program will divide the number. For example:
 
